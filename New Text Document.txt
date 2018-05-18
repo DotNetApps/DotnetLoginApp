@@ -1,0 +1,7 @@
+JAVA Projects
+
+Org1- IRCTC -- JAVA DEV 
+
+Org2 - IRCTC-SeleniumTest - TEST ENGINEERS
+
+Org3 - SANDBOX (Which is only for devops team to maintain the code) - BUILD TEAM MEMBERS
